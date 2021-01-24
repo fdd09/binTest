@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BinTest'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = 'A short description of BinTest.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = '../BinTest/Classes/**/*'
+  s.source_files = 'BinTest/Classes/**/*'
   
   # s.resource_bundles = {
   #   'BinTest' => ['BinTest/Assets/*.png']
