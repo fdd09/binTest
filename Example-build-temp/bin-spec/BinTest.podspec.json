@@ -1,0 +1,26 @@
+{
+  "name": "BinTest",
+  "version": "0.1.2",
+  "summary": "A short description of BinTest.",
+  "description": "11111111",
+  "homepage": "https://github.com/dongwang.feng/BinTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dongwang.feng": "dongwang.feng@amh-group.com"
+  },
+  "source": {
+    "git": "git@github.com:fdd09/binTest.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BinTest/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}

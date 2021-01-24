@@ -1,0 +1,33 @@
+---
+installation_method:
+  name: cocoapods
+  options:
+    :deterministic_uuids: false
+    :generate_multiple_pod_projects: false
+    :incremental_installation: false
+    :share_schemes_for_development_pods: true
+    :warn_for_multiple_pod_sources: false
+workspace: BinTest.xcworkspace
+sources:
+  - "git@github.com:fdd09/commom_bin_specs.git"
+  - "git@github.com:fdd09/commonSpecs.git"
+  - https://cdn.cocoapods.org
+plugins:
+  cocoapods-disable-podfile-validations:
+    no_abstract_only_pods: true
+  cocoapods-generate:
+    {}
+  cocoapods-imy-bin:
+    {}
+target_definitions:
+  - abstract: true
+    children:
+      - name: App-iOS
+    dependencies:
+      - BinTest:
+        - :path: "../../../Example/BinTest.podspec"
+    name: Pods
+    user_project_path: BinTest.xcodeproj
+    uses_frameworks:
+      :linkage: :dynamic
+      :packaging: :framework

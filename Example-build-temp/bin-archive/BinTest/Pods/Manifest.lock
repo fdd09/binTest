@@ -1,0 +1,16 @@
+PODS:
+  - BinTest (0.1.2)
+
+DEPENDENCIES:
+  - BinTest (from `../../../Example/BinTest.podspec`)
+
+EXTERNAL SOURCES:
+  BinTest:
+    :path: "../../../Example/BinTest.podspec"
+
+SPEC CHECKSUMS:
+  BinTest: 828f5d1dcdd6cb81f1994e1b7278b0bca153bfb0
+
+PODFILE CHECKSUM: 994285ebf4af2f0793531278edadd66068eef780
+
+COCOAPODS: 1.10.1
