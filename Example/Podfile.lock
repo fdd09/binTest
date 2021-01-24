@@ -1,0 +1,16 @@
+PODS:
+  - BinTest (0.1.0)
+
+DEPENDENCIES:
+  - BinTest (from `../`)
+
+EXTERNAL SOURCES:
+  BinTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BinTest: 48a9079c785a5e3c85d5f1e8ebf5266a89b28618
+
+PODFILE CHECKSUM: 8760c754851acf3dbf8824ce533c9719d92d52db
+
+COCOAPODS: 1.10.0
