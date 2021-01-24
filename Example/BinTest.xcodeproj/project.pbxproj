@@ -63,8 +63,8 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		887BB019DA4AE64E2E833982 /* Pods_BinTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BinTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CBCF70D0B6ADFACC63DE351 /* Pods_BinTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BinTest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D10FBA625BDA7C300CC9918 /* BinTest.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = BinTest.podspec; sourceTree = "<group>"; };
 		A7C275AE5DC44500E91CE76D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		BB978113A2B454B6D80C1F00 /* BinTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BinTest.podspec; path = ../BinTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C127014087EA9B6537FF802C /* Pods-BinTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BinTest_Example.release.xcconfig"; path = "Target Support Files/Pods-BinTest_Example/Pods-BinTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		DEF6F6EF0B30C5724612408D /* Pods-BinTest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BinTest_Tests.debug.xcconfig"; path = "Target Support Files/Pods-BinTest_Tests/Pods-BinTest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -189,7 +189,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				BB978113A2B454B6D80C1F00 /* BinTest.podspec */,
+				9D10FBA625BDA7C300CC9918 /* BinTest.podspec */,
 				A7C275AE5DC44500E91CE76D /* README.md */,
 				758A412D15CB8115EEBE6197 /* LICENSE */,
 			);

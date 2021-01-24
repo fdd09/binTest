@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4B8DB28AB75D9D38E651E795"
+               BlueprintIdentifier = "D63ED73B6C0D45FA6E869E4C"
                BuildableName = "App-iOS.app"
                BlueprintName = "App-iOS"
                ReferencedContainer = "container:BinTest.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4B8DB28AB75D9D38E651E795"
+            BlueprintIdentifier = "D63ED73B6C0D45FA6E869E4C"
             BuildableName = "App-iOS.app"
             BlueprintName = "App-iOS"
             ReferencedContainer = "container:BinTest.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4B8DB28AB75D9D38E651E795"
+            BlueprintIdentifier = "D63ED73B6C0D45FA6E869E4C"
             BuildableName = "App-iOS.app"
             BlueprintName = "App-iOS"
             ReferencedContainer = "container:BinTest.xcodeproj">
@@ -71,7 +71,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4B8DB28AB75D9D38E651E795"
+            BlueprintIdentifier = "D63ED73B6C0D45FA6E869E4C"
             BuildableName = "App-iOS.app"
             BlueprintName = "App-iOS"
             ReferencedContainer = "container:BinTest.xcodeproj">

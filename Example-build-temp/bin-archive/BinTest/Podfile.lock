@@ -1,5 +1,5 @@
 PODS:
-  - BinTest (0.1.2)
+  - BinTest (0.1.4)
 
 DEPENDENCIES:
   - BinTest (from `../../../Example/BinTest.podspec`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../../../Example/BinTest.podspec"
 
 SPEC CHECKSUMS:
-  BinTest: 828f5d1dcdd6cb81f1994e1b7278b0bca153bfb0
+  BinTest: e4f71bc8edaf6f4ad9bcfdbb2f216dbac69ec70f
 
 PODFILE CHECKSUM: 994285ebf4af2f0793531278edadd66068eef780
 
